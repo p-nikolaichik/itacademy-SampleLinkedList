@@ -1,6 +1,5 @@
 package itacatemy.com.nikolaichik.run;
 
-import java.util.Iterator;
 import java.util.ListIterator;
 
 public class MainApp {
